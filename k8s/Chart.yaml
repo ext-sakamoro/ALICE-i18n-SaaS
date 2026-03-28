@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ALICE_I18N
+description: ALICE i18n
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
