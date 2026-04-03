@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_I18N
+name: alice-i18n
 description: ALICE i18n
 type: application
 version: 0.1.0
